@@ -6,7 +6,7 @@
  *
  *************** Surge配置 ***********************
  * 推荐使用模块：
- * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.sgmodule
+ * https://raw.githubusercontent.com/Kiddn21/surge-changed/master/Tools/AutoPolicy/auto-policy.sgmodule
  * 手动配置：
  * [Script]
  * event network-changed script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.js
